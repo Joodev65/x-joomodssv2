@@ -1,0 +1,21 @@
+{
+  "name": "unban-serpis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/memoizee": "^0.4.12",
+    "axios": "^1.11.0",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "memoizee": "^0.4.17",
+    "openid-client": "^6.7.1"
+  }
+}
